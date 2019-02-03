@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background: #F2F2F2;
+}
+
+header h1, .advice {
+	width: 75%;
+	max-width: 800px;
+	text-align: center;
+	margin: auto;
+}
+
+h1 {
+	font-family: 'Shadows Into Light', cursive;
+	padding-bottom: 10px;
+	border: 1px solid black;
+	border-top-right-radius: 25px;
+	border-top-left-radius: 25px;
+}
+
+h4 {
+	font-family: 'Lato', sans-serif;
+	background: #404040;
+	color: #F2F2F2;
+	margin: auto;
+	padding: 10px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+section p {
+	background: #BFBFBF;
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+	padding: 20px 10px;
+	margin: auto;
+}
+
+footer {
+	border-top: 1px solid black;
+	background: #F2F2F2;
+}
